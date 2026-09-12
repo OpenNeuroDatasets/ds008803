@@ -1,0 +1,12 @@
+{
+    "SamplingFrequency": 1000.0,
+    "StartTime": -15.699,
+    "Columns": [
+        "EMG_1",
+        "EMG_2",
+        "respiratory",
+        "cardiac",
+        "trigger",
+        "cardiac_filtered"
+    ]
+}

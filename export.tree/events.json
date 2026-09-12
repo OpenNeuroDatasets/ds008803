@@ -1,0 +1,15 @@
+{
+    "trial_type": {
+        "Description": "Which direction the tendon vibration stimulus targeted for this block. Only present for ses-vibration runs.",
+        "Levels": {
+            "extension": "tendon vibration targeting the extension direction",
+            "flexion": "tendon vibration targeting the flexion direction"
+        }
+    },
+    "weight": {
+        "Description": "FSL-style 3-column EV weight for this condition block. Constant at 1 for every event in this dataset (no parametric modulation was used).",
+        "Levels": {
+            "1": "block active/on"
+        }
+    }
+}
