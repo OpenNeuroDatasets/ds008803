@@ -23,6 +23,6 @@
     "EthicsApprovals": [
         "The experiments were approved by the Commission Cantonale d’Éthique de la Recherche Genève (CCER, Geneva, Switzerland, 2019-02177)."
     ],
-    "DatasetDOI": "",
+    "DatasetDOI": "doi:10.18112/openneuro.ds008803.v1.0.0",
     "HowToAcknowledge": "Please cite the article: Sergio Daniel Hernandez-Charpak, Nawal Kinany, Ilaria Ricchi, Raphaëlle Schlienger, Loan Mattera, Roberto Martuzzi, Bruno Nazarian, Robin Demesmaeker, Andreas Rowald, Anne Kavounoudias, Jocelyne Bloch, Grégoire Courtine, Dimitri Van De Ville; Towards personalized mapping through lumbosacral spinal cord task fMRI. Imaging Neuroscience 2025; 3 imag_a_00455. doi: https://doi.org/10.1162/imag_a_00455"
 }
