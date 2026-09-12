@@ -1,0 +1,27 @@
+{
+    "Name": "Lumbosacral spinal cord task-based fMRI (motor, stretch, tendon vibration) and high-resolution anatomical MRI dataset",
+    "BIDSVersion": "1.6.0",
+    "DatasetType": "raw",
+    "License": "CC0",
+    "Authors": [
+        "Sergio Daniel Hernandez Charpak",
+        "Nawal Kinany",
+        "Ilaria Ricchi",
+        "Raphaëlle Schlienger",
+        "Loan Mattera",
+        "Roberto Martuzzi",
+        "Bruno Nazarian",
+        "Robin Demesmaeker",
+        "Andreas Rowald",
+        "Anne Kavounoudias",
+        "Jocelyne Bloch",
+        "Grégoire Courtine" ,
+        "Dimitri Van De Ville"
+    ],
+    "Acknowledgements": "The authors would like to thank all the volunteers enrolled in the study. We thank Edeny Baaklini for her insights on participant positioning and active and passive movements. This study was supported by the MRI facility of the Human Neuroscience Platform, Fondation Campus Biotech Geneva, Geneva, Switzerland.",
+    "HowtoAcknowledge": "Please cite this paper: Sergio Daniel Hernandez-Charpak, Nawal Kinany, Ilaria Ricchi, Raphaëlle Schlienger, Loan Mattera, Roberto Martuzzi, Bruno Nazarian, Robin Demesmaeker, Andreas Rowald, Anne Kavounoudias, Jocelyne Bloch, Grégoire Courtine, Dimitri Van De Ville; Towards personalized mapping through lumbosacral spinal cord task fMRI. Imaging Neuroscience 2025; 3 imag_a_00455. doi: https://doi.org/10.1162/imag_a_00455",
+    "EthicsApprovals":[
+        "The experiments were approved by the Commission Cantonale d’Éthique de la Recherche Genève (CCER, Geneva, Switzerland, 2019-02177)."
+    ],
+    "DatasetDOI":""
+}
